@@ -1,0 +1,21 @@
+First I do a scatterplot analysis of my features to figure out outliers.
+Than I analyse these outliers by identify to which person they belong and filter them out. But I keep in mind that
+even if they would affect my results they are likely to belong to a POI.
+
+Bonus Outlier Value : 97343619. 
+
+Figured out that the outlier is on position [120] of my data. He's a outlier not only in bonus but also in salary and
+total stock value. 
+
+
+
+There is one other outlier who received a lot of messages from POI's .
+And also some wide spreaded outliers when it comes to messages to POI's . 
+
+
+I want to merge Message From and To POI'S to a fiture called POI_Interaction . I'm doing this by adding those two
+values up.
+
+
+
+
