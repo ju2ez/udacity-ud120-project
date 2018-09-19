@@ -1,9 +1,13 @@
-<<<<<<< HEAD
+
 # udacity-ud120-project
 Udacity Course - Introduction to Machine Learning
 =======
-ud421-projects
+Clone From :Git -  udacity/ud120-projects
+
 ==============
 
-Starter project code for students taking Udacity ud421
->>>>>>> Initial commit
+This repo consists of:
+
+    Mini-projects I completed for the Udacity's Intro to Machine Learning.
+    Final project analyzing Enron financial and email data for fraud.
+
